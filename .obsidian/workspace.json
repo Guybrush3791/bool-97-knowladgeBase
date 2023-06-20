@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-06-20 - PHP Hotel.md",
+                "file": "Live/2023-06-20 - PHP Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-06-20 - PHP Hotel.md",
+                "file": "Live/2023-06-20 - PHP Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-06-20 - PHP Hotel.md",
+                "file": "Live/2023-06-20 - PHP Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-06-20 - PHP Hotel.md"
+                "file": "Live/2023-06-20 - PHP Fundamentals.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "8dcf3ad7bbd82523",
   "lastOpenFiles": [
+    "Snacks/2023-06-20 - PHP Hotel.md",
+    "Tips&Tricks/Update documentation (quotidiano).md",
     "Live/2023-06-20 - PHP Fundamentals.md",
     "Live",
-    "Tips&Tricks/Update documentation.md",
     "Tips&Tricks/Markdown/Markdown + Obsidian.md",
-    "Snacks/2023-06-20 - PHP Hotel.md",
     "Tips&Tricks/Markdown/Mermaid/User Journey Diagram.md",
     "Tips&Tricks/Markdown/Mermaid/Timeline.md",
     "Tips&Tricks/Markdown/Mermaid/State diagram.md",

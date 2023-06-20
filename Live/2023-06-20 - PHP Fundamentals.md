@@ -347,3 +347,50 @@ if ($pws === "Boolean") {
     echo "<div class='red'>ko</div>";
 }
 ```
+## Bootstrap + PHP + HTML5
+```php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    
+    <style>
+    .green {
+        color: white;
+        background-color: green;
+    }
+    .red {
+        color: white;
+        background-color: red;
+    }
+</style>
+</head>
+<body>
+    
+<form class="container my-3">
+    <label for="password" >Password:</label>
+    <input type="password" name="password">
+    <input type="submit" value="LOGIN">
+</form>
+
+<?php
+
+    $pws = $_GET["password"];
+
+    if ($pws === "Boolean") {
+
+        echo "<div class='green'>ok</div>";
+    } else { 
+
+        echo "<div class='red'>ko</div>";
+    }
+
+?>
+</body>
+</html>
+```
