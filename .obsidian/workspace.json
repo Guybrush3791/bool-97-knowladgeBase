@@ -11,15 +11,24 @@
             "id": "491b70ce4f9d5532",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3945ff1363535249",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-15.md",
+                "file": "Hello World.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-15.md",
+                "file": "Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-15.md",
+                "file": "Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-15.md"
+                "file": "Hello World.md"
               }
             }
           }
@@ -146,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "491b70ce4f9d5532",
+  "active": "3945ff1363535249",
   "lastOpenFiles": [
+    "Hello World.md",
     "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
     "2023-06-15.md",
     "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
@@ -173,7 +183,6 @@
     "Live/2023-06-01 - crud recap (con rel 1aN).md",
     "Tips&Tricks/Spring CRUD.md",
     "Tips&Tricks/Spring boot + Thymeleaf init.md",
-    "Tips&Tricks/JUnit Jupiter.md",
     "__assets/imgs/Pasted image 20230526120844.png",
     "__assets/imgs/design-best-2021.drawio.png",
     "__assets/imgs/Pasted image 20230524143144.png",
