@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "eb392f3778d009bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a2ac7e9515bf048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "491b70ce4f9d5532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8396fa8cf006efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d7eef0f4133426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1899614acd1d278f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4586d75975f37076",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51a1340bedb8314c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "33d9a8222809dcd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8374eb53ec32038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0521d59882f8253",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-06-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bab60c7c328f0013",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-06-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1941b7504238cbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a06fe3a1961bb3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-06-15.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "491b70ce4f9d5532",
+  "lastOpenFiles": [
+    "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
+    "2023-06-15.md",
+    "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
+    "Snacks/2023-06-08 - spring-la-mia-pizzeria-webapi.md",
+    "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md",
+    "Tips&Tricks/SpringBoot REST API login.md",
+    "Tips&Tricks/MacOS - MySQL.md",
+    "Live/2023-06-08 - rest api frontend.md",
+    "Tips&Tricks/Git.md",
+    "Snacks/2023-06-05 - spring-la-mia-pizzeria-relazioni.md",
+    "Live/2023-06-07 - rest api live.md",
+    "Live/2023-06-07 - rest api.md",
+    "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
+    "Snacks/2023-05-30 - spring-la-mia-pizzeria-crud - 3.md",
+    "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
+    "Snacks/2023-05-23 - java-calculator-tester.md",
+    "Snacks/2023-05-12 - 1 - java-wish-list.md",
+    "Snacks/2023-05-17 - java-gestore-eventi.md",
+    "Snacks/2023-05-29 - spring-la-mia-pizzeria-crud - 2.md",
+    "Live/2023-06-06 - spring-security-live.md",
+    "Live/2023-06-05 - crud books relazioni.md",
+    "Live/2023-05-31 - crud books relazioni.md",
+    "Live/2023-06-01 - crud recap (con rel 1aN).md",
+    "Tips&Tricks/Spring CRUD.md",
+    "Tips&Tricks/Spring boot + Thymeleaf init.md",
+    "Tips&Tricks/JUnit Jupiter.md",
+    "__assets/imgs/Pasted image 20230526120844.png",
+    "__assets/imgs/design-best-2021.drawio.png",
+    "__assets/imgs/Pasted image 20230524143144.png",
+    "__assets/imgs/Pasted image 20230524143304.png",
+    "Empty File",
+    "Personal",
+    "__assets/imgs/Pasted image 20230523122524.png",
+    "__assets/imgs/Pasted image 20230523123525.png",
+    "__assets/imgs/Pasted image 20230522124951.png",
+    "__assets/imgs/Pasted image 20230522125504.png",
+    "__assets/dump/dump_nations.sql",
+    "__assets/imgs/Pasted image 20230522124721.png",
+    "__assets/imgs/Pasted image 20230522124045.png",
+    "EX - Query Db videogames.txt",
+    "__assets/dump/mysql-db_videogames.sql",
+    "__assets/dump/mysql-db_aeroporto.sql",
+    "__assets/dump",
+    "mysql-db_aeroporto.sql",
+    "__assets/database",
+    "__assets/imgs"
+  ]
+}
