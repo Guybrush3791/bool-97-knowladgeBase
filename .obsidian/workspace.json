@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Live/2023-06-20 - PHP Fundamentals.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -149,6 +149,7 @@
   "active": "8dcf3ad7bbd82523",
   "lastOpenFiles": [
     "Snacks/2023-06-20 - PHP Hotel.md",
+    "2023-.md",
     "Tips&Tricks/Update documentation (quotidiano).md",
     "Live/2023-06-20 - PHP Fundamentals.md",
     "Live",
