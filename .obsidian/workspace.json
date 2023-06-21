@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-06-20 - PHP Fundamentals.md",
+                "file": "Snacks/2023-06-21 - PHP Strong Password Generator.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-06-20 - PHP Fundamentals.md",
+                "file": "Snacks/2023-06-21 - PHP Strong Password Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-06-20 - PHP Fundamentals.md",
+                "file": "Snacks/2023-06-21 - PHP Strong Password Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-06-20 - PHP Fundamentals.md"
+                "file": "Snacks/2023-06-21 - PHP Strong Password Generator.md"
               }
             }
           }
@@ -146,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dcf3ad7bbd82523",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
+    "__assets/imgs",
+    "__assets",
+    "__assets/imgs/Pasted image 20230621123915.png",
+    "Live/2023-06-21 - php mail.md",
+    "Snacks/2023-06-21 - PHP Strong Password Generator.md",
     "Snacks/2023-06-20 - PHP Hotel.md",
+    "Live/2023-06-20 - PHP Fundamentals.md",
     "2023-.md",
     "Tips&Tricks/Update documentation (quotidiano).md",
-    "Live/2023-06-20 - PHP Fundamentals.md",
     "Live",
     "Tips&Tricks/Markdown/Markdown + Obsidian.md",
     "Tips&Tricks/Markdown/Mermaid/User Journey Diagram.md",
@@ -178,9 +183,6 @@
     "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2023-06-08 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md",
-    "Tips&Tricks/SpringBoot REST API login.md",
-    "Tips&Tricks/MacOS - MySQL.md",
-    "Live/2023-06-08 - rest api frontend.md",
     "__assets/imgs/Pasted image 20230526120844.png",
     "__assets/imgs/design-best-2021.drawio.png",
     "__assets/imgs/Pasted image 20230524143144.png",
@@ -191,8 +193,6 @@
     "__assets/imgs/Pasted image 20230523123525.png",
     "__assets/imgs/Pasted image 20230522124951.png",
     "__assets/imgs/Pasted image 20230522125504.png",
-    "__assets/dump/dump_nations.sql",
-    "__assets/imgs/Pasted image 20230522124721.png",
-    "__assets/imgs/Pasted image 20230522124045.png"
+    "__assets/imgs/Pasted image 20230522124721.png"
   ]
 }
