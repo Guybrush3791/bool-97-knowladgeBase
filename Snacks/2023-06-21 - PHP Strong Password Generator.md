@@ -1,6 +1,9 @@
 ## Repo
 `php-strong-password-generator`
 
+## Correzione
+[Repo](https://github.com/Guybrush3791/bool-97-php-strong-password-generator)
+
 ## Todo
 Dobbiamo creare una pagina che permetta ai nostri utenti di utilizzare il nostro generatore di password (abbastanza) sicure.
 L’esercizio è suddiviso in varie milestone ed è molto importante svilupparle in modo ordinato.
@@ -14,7 +17,7 @@ Verificato il corretto funzionamento del nostro codice, spostiamo la logica in u
 
 ### Bonus
 #### Milestone 3
-Invece di visualizzare la password nella `index.php`, effettuare un redirect **ad** una pagina dedicata che tramite `$_SESSION` recupererà la password da mostrare all’utente.
+Invece di visualizzare la password nella `index.php`, effettuare un redirect ad una pagina dedicata che tramite `$_SESSION` recupererà la password da mostrare all’utente.
 
 #### Milestone 4
 Gestire ulteriori parametri per la password dando all'utente la possibilita' di scegliere quali caratteri usare fra numeri, lettere e simboli. 
