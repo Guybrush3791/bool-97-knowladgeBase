@@ -1,6 +1,9 @@
 ## Repo
 `php-todo-list-json`
 
+## Correzione
+[Repo](https://github.com/Guybrush3791/bool-97-php-todo-list-json)
+
 ## Todo
 Dobbiamo creare una **web-app** che permetta di **leggere e scrivere una lista di Todo**.
 Deve essere anche gestita la persistenza dei dati **leggendoli da**, e **scrivendoli in** un file `JSON`.
