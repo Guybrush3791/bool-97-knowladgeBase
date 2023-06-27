@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-06-26 - DB first.md",
-                "mode": "source",
+                "file": "Snacks/2023-06-27 - DB University.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 362.5
   },
   "right": {
     "id": "33d9a8222809dcd4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-06-26 - DB first.md",
+                "file": "Snacks/2023-06-27 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-06-26 - DB first.md",
+                "file": "Snacks/2023-06-27 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-06-26 - DB first.md"
+                "file": "Snacks/2023-06-27 - DB University.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "8dcf3ad7bbd82523",
   "lastOpenFiles": [
+    "Snacks/2023-06-26 - DB first.md",
+    "Snacks/2023-06-27 - DB University.md",
+    "__assets/imgs/2023-06-27 - Live Entity Relationship.md",
+    "__assets/imgs/shop.png",
+    "__assets/imgs/Biblioteca_ER.png",
+    "__assets/imgs/Auto_usata_ER.png",
     "Snacks/2023-06-22 - PHP ToDo List JSON.md",
     "Live/2023-06-26 - Book DB.md",
-    "Snacks/2023-06-26 - DB first.md",
     "Live/2023-06-23 - PHP + axios.md",
     "__assets/imgs/Book.png",
     "Book.svg",
@@ -183,16 +188,11 @@
     "Tips&Tricks/Markdown/Attach/Markdown Linkable Note.md",
     "Tips&Tricks/Markdown/Attach",
     "Tips&Tricks/Markdown",
-    "Hello World.md",
     "Tips&Tricks",
     "Snacks",
-    "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
     "__assets/imgs/Pasted image 20230526120844.png",
     "__assets/imgs/design-best-2021.drawio.png",
     "__assets/imgs/Pasted image 20230524143144.png",
-    "__assets/imgs/Pasted image 20230524143304.png",
-    "Empty File",
-    "__assets/imgs/Pasted image 20230523122524.png",
-    "__assets/imgs/Pasted image 20230523123525.png"
+    "Empty File"
   ]
 }
