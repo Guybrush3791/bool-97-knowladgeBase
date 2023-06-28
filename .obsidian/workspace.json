@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-06-27 - DB University.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,14 +148,21 @@
   },
   "active": "8dcf3ad7bbd82523",
   "lastOpenFiles": [
-    "Snacks/2023-06-26 - DB first.md",
+    "Live/2023-06-26 - Book DB.md",
+    "2023-06-28 - DB University.md",
+    "__assets/dumps/db_university.sql.gz",
+    "__assets/dumps",
     "Snacks/2023-06-27 - DB University.md",
+    "DBs/DB University/Untitled.md",
+    "DBs/DB University",
+    "DBs",
+    "__assets/imgs/DB University ER.png",
+    "Snacks/2023-06-26 - DB first.md",
     "__assets/imgs/2023-06-27 - Live Entity Relationship.md",
     "__assets/imgs/shop.png",
     "__assets/imgs/Biblioteca_ER.png",
     "__assets/imgs/Auto_usata_ER.png",
     "Snacks/2023-06-22 - PHP ToDo List JSON.md",
-    "Live/2023-06-26 - Book DB.md",
     "Live/2023-06-23 - PHP + axios.md",
     "__assets/imgs/Book.png",
     "Book.svg",
@@ -181,18 +188,10 @@
     "Tips&Tricks/Markdown/Mermaid/Gantt.md",
     "Tips&Tricks/Markdown/Mermaid/Flow.md",
     "Tips&Tricks/Markdown/Mermaid/Entity Relationship.md",
-    "Tips&Tricks/Markdown/Mermaid/Class diagrams.md",
     "Tips&Tricks/Markdown/Mermaid",
-    "Tips&Tricks/Markdown/Slides/Slides demo.md",
     "Tips&Tricks/Markdown/Slides",
-    "Tips&Tricks/Markdown/Attach/Markdown Linkable Note.md",
     "Tips&Tricks/Markdown/Attach",
-    "Tips&Tricks/Markdown",
-    "Tips&Tricks",
-    "Snacks",
     "__assets/imgs/Pasted image 20230526120844.png",
-    "__assets/imgs/design-best-2021.drawio.png",
-    "__assets/imgs/Pasted image 20230524143144.png",
-    "Empty File"
+    "__assets/imgs/design-best-2021.drawio.png"
   ]
 }
