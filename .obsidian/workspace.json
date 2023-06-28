@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBs/DB University/2023-06-28 - DB University.md",
+                "file": "Snacks/2023-06-28 - DB Univesity.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 342.5
   },
   "right": {
     "id": "33d9a8222809dcd4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBs/DB University/2023-06-28 - DB University.md",
+                "file": "Snacks/2023-06-28 - DB Univesity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBs/DB University/2023-06-28 - DB University.md",
+                "file": "Snacks/2023-06-28 - DB Univesity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBs/DB University/2023-06-28 - DB University.md"
+                "file": "Snacks/2023-06-28 - DB Univesity.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "8dcf3ad7bbd82523",
   "lastOpenFiles": [
+    "Live/2023-06-28 - DB University.md",
+    "Snacks/2023-06-28 - DB Univesity.md",
+    "DBs/DB University/2023-06-28 - DB University.md",
     "Snacks/2023-06-27 - DB University.md",
     "Live/2023-06-26 - Book DB.md",
-    "DBs/DB University/2023-06-28 - DB University.md",
     "__assets/dumps/db_university.sql.gz",
     "__assets/dumps",
     "DBs/DB University/Untitled.md",
@@ -187,7 +189,6 @@
     "Tips&Tricks/Markdown/Mermaid/Git.md",
     "Tips&Tricks/Markdown/Mermaid/Gantt.md",
     "Tips&Tricks/Markdown/Mermaid/Flow.md",
-    "Tips&Tricks/Markdown/Mermaid/Entity Relationship.md",
     "Tips&Tricks/Markdown/Mermaid",
     "Tips&Tricks/Markdown/Slides",
     "Tips&Tricks/Markdown/Attach",
