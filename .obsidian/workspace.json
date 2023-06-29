@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dccef909e7c040ff",
+        "id": "27f6302a06f933f5",
         "type": "tabs",
         "children": [
           {
-            "id": "8dcf3ad7bbd82523",
+            "id": "b0e4d020c517f59f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-06-28 - DB Univesity.md",
+                "file": "Snacks/2023-06-29 - DB Univesity.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-06-28 - DB Univesity.md",
+                "file": "Snacks/2023-06-29 - DB Univesity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-06-28 - DB Univesity.md",
+                "file": "Snacks/2023-06-29 - DB Univesity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-06-28 - DB Univesity.md"
+                "file": "Snacks/2023-06-29 - DB Univesity.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dcf3ad7bbd82523",
+  "active": "b0e4d020c517f59f",
   "lastOpenFiles": [
-    "Snacks/2023-06-27 - DB University.md",
     "Snacks/2023-06-28 - DB Univesity.md",
+    "Snacks/2023-06-27 - DB University.md",
+    "Snacks/2023-06-29 - DB Univesity.md",
     "Live/2023-06-28 - DB University.md",
+    "Live/2023-06-29 - DB University 2.md",
     "DBs/DB University/2023-06-28 - DB University.md",
     "Live/2023-06-26 - Book DB.md",
     "__assets/dumps/db_university.sql.gz",
@@ -187,8 +189,6 @@
     "Tips&Tricks/Markdown/Mermaid/Sequence Diagram.md",
     "Tips&Tricks/Markdown/Mermaid/Pie.md",
     "Tips&Tricks/Markdown/Mermaid/Git.md",
-    "Tips&Tricks/Markdown/Mermaid/Gantt.md",
-    "Tips&Tricks/Markdown/Mermaid/Flow.md",
     "Tips&Tricks/Markdown/Mermaid",
     "Tips&Tricks/Markdown/Slides",
     "Tips&Tricks/Markdown/Attach",
