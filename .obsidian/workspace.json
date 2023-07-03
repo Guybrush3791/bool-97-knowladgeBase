@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-06-30 - PHP OOP 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 244.5
   },
   "right": {
     "id": "33d9a8222809dcd4",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0e4d020c517f59f",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
     "Live/2023-06-30 - PHP OOP Intro.md",
     "Snacks/2023-06-30 - PHP OOP 1.md",
