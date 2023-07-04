@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-07-03 - PHP OOP 2.md",
+                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-07-03 - PHP OOP 2.md",
+                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-07-03 - PHP OOP 2.md",
+                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-07-03 - PHP OOP 2.md"
+                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "37391c2f6f5b16d2",
   "lastOpenFiles": [
+    "Live/2023-07-04 - Extends & Traits.md",
+    "Live/2023-07-03 - PHP OOP 2 - live.md",
+    "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
+    "Snacks/2023-07-03 - PHP OOP 2 - 1.md",
+    "Snacks/2023-06-30 - PHP OOP 1.md",
+    "Live/2023-06-30 - PHP OOP Intro.md",
     "Tips&Tricks/Markdown/Slides/Slides demo.md",
     "Tips&Tricks/Markdown/Markdown + Obsidian.md",
     "Tips&Tricks/Update documentation (quotidiano).md",
-    "Snacks/2023-07-03 - PHP OOP 2.md",
-    "Live/2023-07-03 - PHP OOP 2 - live.md",
     "Live/2023-06-22 - PHP + axios.md",
-    "Snacks/2023-06-30 - PHP OOP 1.md",
-    "Live/2023-06-30 - PHP OOP Intro.md",
     "Snacks/2023-06-29 - DB Univesity.md",
     "Snacks/2023-06-28 - DB Univesity.md",
     "Snacks/2023-06-27 - DB University.md",
@@ -186,9 +188,7 @@
     "__assets",
     "__assets/imgs/Pasted image 20230621123915.png",
     "Live/2023-06-20 - PHP Fundamentals.md",
-    "2023-.md",
     "Live",
-    "Tips&Tricks/Markdown/Mermaid/User Journey Diagram.md",
     "Tips&Tricks/Markdown/Mermaid",
     "Tips&Tricks/Markdown/Slides",
     "Tips&Tricks/Markdown/Attach",
