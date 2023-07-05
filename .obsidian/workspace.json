@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
+                "file": "DBs/DB University/2023-06-28 - DB University.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
+                "file": "DBs/DB University/2023-06-28 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
+                "file": "DBs/DB University/2023-06-28 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-07-04 - PHP OOP 2 - 2.md"
+                "file": "DBs/DB University/2023-06-28 - DB University.md"
               }
             }
           }
@@ -146,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37391c2f6f5b16d2",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Live/2023-07-04 - Extends & Traits.md",
-    "Live/2023-07-03 - PHP OOP 2 - live.md",
+    "__assets/imgs/Pasted image 20230705112136.png",
+    "__assets/imgs/Pasted image 20230705112056.png",
+    "DBs/DB University/2023-06-28 - DB University.md",
+    "Live/2023-07-05 - Teacher Search.md",
+    "Live/2023-06-28 - DB University.md",
     "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
     "Snacks/2023-07-03 - PHP OOP 2 - 1.md",
+    "Live/2023-07-04 - Extends & Traits.md",
+    "Live/2023-07-03 - PHP OOP 2 - live.md",
     "Snacks/2023-06-30 - PHP OOP 1.md",
     "Live/2023-06-30 - PHP OOP Intro.md",
     "Tips&Tricks/Markdown/Slides/Slides demo.md",
@@ -161,9 +166,7 @@
     "Snacks/2023-06-29 - DB Univesity.md",
     "Snacks/2023-06-28 - DB Univesity.md",
     "Snacks/2023-06-27 - DB University.md",
-    "Live/2023-06-28 - DB University.md",
     "Live/2023-06-29 - DB University 2.md",
-    "DBs/DB University/2023-06-28 - DB University.md",
     "Live/2023-06-26 - Book DB.md",
     "__assets/dumps/db_university.sql.gz",
     "__assets/dumps",
@@ -183,16 +186,13 @@
     "__assets/imgs/Pasted image 20230622130434.png",
     "Snacks/2023-06-21 - PHP Strong Password Generator.md",
     "Live/2023-06-21 - php mail.md",
-    "Snacks/2023-06-20 - PHP Hotel.md",
     "__assets/imgs",
     "__assets",
     "__assets/imgs/Pasted image 20230621123915.png",
-    "Live/2023-06-20 - PHP Fundamentals.md",
     "Live",
     "Tips&Tricks/Markdown/Mermaid",
     "Tips&Tricks/Markdown/Slides",
     "Tips&Tricks/Markdown/Attach",
-    "__assets/imgs/Pasted image 20230526120844.png",
-    "__assets/imgs/design-best-2021.drawio.png"
+    "__assets/imgs/Pasted image 20230526120844.png"
   ]
 }
