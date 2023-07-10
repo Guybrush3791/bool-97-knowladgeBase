@@ -1,5 +1,5 @@
 # Install Dependencies
-## Install Composer
+## [MAC/LINUX] Install Composer
 ### Enable `PHP` from terminal 
 Per farlo e' necessario esportare la variabile globale aprendo il file `~/.zshrc` da terminale con il seguente comando
 ```sh
@@ -39,6 +39,10 @@ composer
 Risultato atteso:
 ![[Pasted image 20230710115230.png]]
 
+
+## [WINDOWS] Install Composer
+Vedi slides **Boolean**
+
 # Create Laravel Project
 Aprire un terminale nella posizione in cui si vuole creare il progetto
 ```sh
@@ -56,3 +60,18 @@ php artisan serve
 
 E' ora possibile aprire l'URL esposto da terminale nel browser per vedere la pagina di *welcome*
 ![[Pasted image 20230710120949.png]]
+# Issues
+## Problema creazione progetto/start server
+In caso in cui durante la fase di *creazione progetto* o *lancio del server* si verifichino questo tipo di problemi
+![[Screenshot 2023-07-10 122553.png]]
+
+E' possibile aprire il file `php.ini` nella cartella del `PHP` versione scelta precedentemente (es: `C:\MAMP\bin\php\php8.1.0\php.ini`) e decommentare la seguente riga dopo averla trovata tramite `CTRL + F`
+```php
+;extension=fileinfo
+```
+eliminando il `;` all'inizio della riga
+```php
+extension=fileinfo
+```
+
+Sara' a questo punto possibile creare **progetti Laravel** normalmente seguendo la procedura nel paragrafo [[#Create Laravel Project]].
