@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Tricks/Composer.md",
-                "mode": "preview",
+                "file": "Tips&Tricks/Laravel.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/Composer.md",
+                "file": "Tips&Tricks/Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/Composer.md",
+                "file": "Tips&Tricks/Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/Composer.md"
+                "file": "Tips&Tricks/Laravel.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   "active": "37391c2f6f5b16d2",
   "lastOpenFiles": [
     "Tips&Tricks/Update documentation (quotidiano).md",
+    "__assets/imgs/Pasted image 20230710120949.png",
+    "Tips&Tricks/Laravel.md",
+    "__assets/imgs/Pasted image 20230710120827.png",
+    "__assets/imgs/Pasted image 20230710120626.png",
     "__assets/imgs/Pasted image 20230710114438.png",
-    "Tips&Tricks/Composer.md",
     "__assets/imgs/Pasted image 20230710115230.png",
     "Pasted image 20230710114332.png",
     "__assets/imgs/Pasted image 20230710114349.png",
@@ -182,9 +185,6 @@
     "__assets/imgs/DB University ER.png",
     "Snacks/2023-06-26 - DB first.md",
     "__assets/imgs/2023-06-27 - Live Entity Relationship.md",
-    "__assets/imgs/shop.png",
-    "__assets/imgs/Biblioteca_ER.png",
-    "__assets/imgs/Auto_usata_ER.png",
     "Snacks/2023-06-22 - PHP ToDo List JSON.md",
     "Live/2023-06-23 - PHP + axios.md",
     "Snacks/2023-06-21 - PHP Strong Password Generator.md",

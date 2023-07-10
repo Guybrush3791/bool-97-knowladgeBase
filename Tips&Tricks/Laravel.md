@@ -1,4 +1,5 @@
-## Install
+# Install Dependencies
+## Install Composer
 ### Enable `PHP` from terminal 
 Per farlo e' necessario esportare la variabile globale aprendo il file `~/.zshrc` da terminale con il seguente comando
 ```sh
@@ -37,3 +38,21 @@ composer
 
 Risultato atteso:
 ![[Pasted image 20230710115230.png]]
+
+# Create Laravel Project
+Aprire un terminale nella posizione in cui si vuole creare il progetto
+```sh
+composer create-project --prefer-dist laravel/laravel=9.2 MyProject
+```
+
+Aprire la cartella appena creata (nell'esempio `MyProject`) con `VSCode`
+![[Pasted image 20230710120626.png]]
+
+Da terminale di `VSCode` eseguire il seguente comando
+```sh
+php artisan serve
+```
+![[Pasted image 20230710120827.png]]
+
+E' ora possibile aprire l'URL esposto da terminale nel browser per vedere la pagina di *welcome*
+![[Pasted image 20230710120949.png]]
