@@ -1,6 +1,9 @@
 ## Repo
 `laravel-primi-passi`
 
+## Correzione
+[Repo](https://github.com/Guybrush3791/bool-97-laravel-primi-passi)
+
 ## Todo
 Per prima cosa, creiamo un nuovo progetto **Laravel 9**, utilizzando questo comando:
 ```sh
