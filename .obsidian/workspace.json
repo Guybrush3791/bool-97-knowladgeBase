@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
+                "file": "Snacks/2023-07-11 - Laravel Comics.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-07-11 - Laravel Comics.md",
-                "mode": "preview",
+                "file": "__assets/dumps/2023-07-12 - DB Movies.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "2125e93c9e4926cf",
   "lastOpenFiles": [
-    "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
-    "__assets/laravel-comics-assets/__assets/jumbotron.jpg",
-    "Snacks/2023-07-11 - Laravel Comics.md",
+    "Snacks/2023-07-12 - Laravel Model Controller.md",
     "Live/2023-07-11 - Laravel SASS Bootstrap PKG.md",
+    "__assets/dumps/2023-07-12 - DB Movies.md",
+    "__assets/imgs/Pasted image 20230712121053.png",
+    "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
+    "__assets/dumps/movies.sql",
+    "DBs/DB University/2023-06-28 - DB University.md",
+    "DBs/DB Movies",
+    "Snacks/2023-07-11 - Laravel Comics.md",
+    "__assets/laravel-comics-assets/__assets/jumbotron.jpg",
     "Snacks/2023-07-10 - Laravel Primi Passi.md",
     "Live/2023-06-22 - PHP + axios.md",
     "__assets/laravel-comics-assets/__assets/adv.jpg",
@@ -177,7 +182,6 @@
     "__assets/laravel-comics-assets/__assets/footer-facebook.png",
     "__assets/laravel-comics-assets/__assets/footer-bg.jpg",
     "__assets/laravel-comics-assets/favicon.ico",
-    "__assets/laravel-comics-assets/__assets/dc-logo-bg.png",
     "__assets/laravel-comics-assets",
     "__assets/archives/laravel-comics.zip",
     "__assets/archives",
@@ -185,7 +189,6 @@
     "Tips&Tricks/Update documentation (quotidiano).md",
     "Tips&Tricks/Composer",
     "Live/2023-07-05 - Teacher Search.md",
-    "DBs/DB University/2023-06-28 - DB University.md",
     "Live/2023-06-28 - DB University.md",
     "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
     "Snacks/2023-07-03 - PHP OOP 2 - 1.md",
@@ -201,10 +204,6 @@
     "Live/2023-06-29 - DB University 2.md",
     "Live/2023-06-26 - Book DB.md",
     "__assets/dumps/db_university.sql.gz",
-    "__assets/dumps",
-    "DBs/DB University/Untitled.md",
-    "DBs/DB University",
-    "DBs",
-    "Snacks/2023-06-26 - DB first.md"
+    "__assets/dumps"
   ]
 }
