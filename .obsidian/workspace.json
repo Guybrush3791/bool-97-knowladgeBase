@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c343948816814f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Snacks/2023-07-11 - Laravel Comics.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2125e93c9e4926cf",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Live/2023-07-11 - Laravel SASS Bootstrap PKG.md",
+    "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
+    "__assets/laravel-comics-assets/__assets/jumbotron.jpg",
     "Snacks/2023-07-11 - Laravel Comics.md",
+    "Live/2023-07-11 - Laravel SASS Bootstrap PKG.md",
     "Snacks/2023-07-10 - Laravel Primi Passi.md",
     "Live/2023-06-22 - PHP + axios.md",
-    "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
     "__assets/laravel-comics-assets/__assets/adv.jpg",
     "__assets/laravel-comics-assets/__assets",
     "__assets/imgs/homepage.png",
-    "__assets/laravel-comics-assets/__assets/jumbotron.jpg",
     "__assets/laravel-comics-assets/__assets/footer-youtube.png",
     "__assets/laravel-comics-assets/__assets/footer-twitter.png",
     "__assets/laravel-comics-assets/__assets/footer-pinterest.png",
@@ -192,7 +205,6 @@
     "DBs/DB University/Untitled.md",
     "DBs/DB University",
     "DBs",
-    "Snacks/2023-06-26 - DB first.md",
-    "__assets/imgs/2023-06-27 - Live Entity Relationship.md"
+    "Snacks/2023-06-26 - DB first.md"
   ]
 }

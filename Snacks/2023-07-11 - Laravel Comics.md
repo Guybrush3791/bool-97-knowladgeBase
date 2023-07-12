@@ -1,6 +1,9 @@
 ## Repo
 `laravel-comics`
 
+## Correzione
+[Repo](https://github.com/Guybrush3791/bool-97-laravel-comics)
+
 ## Guida
 Vedi [[2023-07-11 - Laravel SASS Bootstrap PKG|Laravel SASS Bootstrap PKG]]
 
