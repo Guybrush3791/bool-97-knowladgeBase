@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c98a28459f882f4e",
+        "id": "174b73f9dba5ebab",
         "type": "tabs",
         "children": [
           {
-            "id": "2125e93c9e4926cf",
+            "id": "dc62cde95f921a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-07-12 - Laravel Model Controller Live.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3c343948816814f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__assets/dumps/2023-07-12 - DB Movies.md",
+                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-07-12 - Laravel Model Controller Live.md",
+                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-07-12 - Laravel Model Controller Live.md",
+                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-07-12 - Laravel Model Controller Live.md"
+                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md"
               }
             }
           }
@@ -158,13 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "dc62cde95f921a97",
   "lastOpenFiles": [
+    "Snacks/2023-07-13 - Laravel Migration Seeder.md",
+    "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
     "Snacks/2023-07-12 - Laravel Model Controller.md",
-    "Live/2023-07-12 - Laravel Model Controller Live.md",
-    "Snacks/2023-07-11 - Laravel Comics.md",
-    "Live/2023-07-11 - Laravel SASS Bootstrap PKG.md",
     "__assets/dumps/2023-07-12 - DB Movies.md",
+    "Snacks/2023-06-20 - PHP Hotel.md",
+    "Snacks/2023-06-21 - PHP Strong Password Generator.md",
+    "Snacks/2023-06-22 - PHP ToDo List JSON.md",
+    "Snacks/2023-06-26 - DB first.md",
+    "Snacks/2023-06-27 - DB University.md",
+    "Snacks/2023-06-28 - DB Univesity.md",
+    "Snacks/2023-06-29 - DB Univesity.md",
+    "Snacks/2023-06-30 - PHP OOP 1.md",
+    "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
+    "Snacks/2023-07-11 - Laravel Comics.md",
+    "Live/2023-07-12 - Laravel Model Controller Live.md",
+    "Live/2023-07-11 - Laravel SASS Bootstrap PKG.md",
     "__assets/imgs/Pasted image 20230712121053.png",
     "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
     "__assets/dumps/movies.sql",
@@ -191,19 +190,8 @@
     "Tips&Tricks/Composer",
     "Live/2023-07-05 - Teacher Search.md",
     "Live/2023-06-28 - DB University.md",
-    "Snacks/2023-07-04 - PHP OOP 2 - 2.md",
     "Snacks/2023-07-03 - PHP OOP 2 - 1.md",
     "Live/2023-07-04 - Extends & Traits.md",
-    "Live/2023-07-03 - PHP OOP 2 - live.md",
-    "Snacks/2023-06-30 - PHP OOP 1.md",
-    "Live/2023-06-30 - PHP OOP Intro.md",
-    "Tips&Tricks/Markdown/Slides/Slides demo.md",
-    "Tips&Tricks/Markdown/Markdown + Obsidian.md",
-    "Snacks/2023-06-29 - DB Univesity.md",
-    "Snacks/2023-06-28 - DB Univesity.md",
-    "Snacks/2023-06-27 - DB University.md",
-    "Live/2023-06-29 - DB University 2.md",
-    "Live/2023-06-26 - Book DB.md",
     "__assets/dumps/db_university.sql.gz",
     "__assets/dumps"
   ]
