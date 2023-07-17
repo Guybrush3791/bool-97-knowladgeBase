@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
+                "file": "Live/2023-07-17 - Laravel CRUD - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
+                "file": "Live/2023-07-17 - Laravel CRUD - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
+                "file": "Live/2023-07-17 - Laravel CRUD - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md"
+                "file": "Live/2023-07-17 - Laravel CRUD - 1.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc62cde95f921a97",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
+    "Live/2023-07-03 - PHP OOP 2 - live.md",
+    "Live/2023-07-17 - Laravel CRUD - 1.md",
+    "Snacks/2023-07-17 - Laravel DC Comics.md",
     "Snacks/2023-07-13 - Laravel Migration Seeder.md",
     "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
     "Snacks/2023-07-12 - Laravel Model Controller.md",
@@ -189,9 +192,6 @@
     "Tips&Tricks/Update documentation (quotidiano).md",
     "Tips&Tricks/Composer",
     "Live/2023-07-05 - Teacher Search.md",
-    "Live/2023-06-28 - DB University.md",
-    "Snacks/2023-07-03 - PHP OOP 2 - 1.md",
-    "Live/2023-07-04 - Extends & Traits.md",
     "__assets/dumps/db_university.sql.gz",
     "__assets/dumps"
   ]
