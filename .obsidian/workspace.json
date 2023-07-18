@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-07-18 - Laravel DC Comics.md",
-                "mode": "source",
+                "file": "Snacks/2023-07-17 - Laravel DC Comics.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-07-18 - Laravel DC Comics.md",
+                "file": "Snacks/2023-07-17 - Laravel DC Comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-07-18 - Laravel DC Comics.md",
+                "file": "Snacks/2023-07-17 - Laravel DC Comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-07-18 - Laravel DC Comics.md"
+                "file": "Snacks/2023-07-17 - Laravel DC Comics.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "dc62cde95f921a97",
   "lastOpenFiles": [
-    "Live/2023-07-17 - Laravel CRUD - 1.md",
-    "Live/2023-07-18 - Laravel DC Comics.md",
+    "Snacks/2023-07-18 - Laravel DC Comics 2.md",
     "Snacks/2023-07-17 - Laravel DC Comics.md",
+    "Tips&Tricks/Markdown/Markdown + Obsidian.md",
+    "Live/2023-07-18 - Laravel DC Comics.md",
+    "Live/2023-07-17 - Laravel CRUD - 1.md",
     "Live/2023-07-03 - PHP OOP 2 - live.md",
     "Snacks/2023-07-13 - Laravel Migration Seeder.md",
     "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
@@ -189,8 +191,6 @@
     "__assets/laravel-comics-assets",
     "__assets/archives/laravel-comics.zip",
     "__assets/archives",
-    "Tips&Tricks/Laravel.md",
-    "Tips&Tricks/Update documentation (quotidiano).md",
     "Tips&Tricks/Composer",
     "__assets/dumps/db_university.sql.gz",
     "__assets/dumps"

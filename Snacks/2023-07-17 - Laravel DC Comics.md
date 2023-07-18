@@ -4,15 +4,22 @@
 ## Todo
 Creare un nuovo progetto per gestire una collezione di fumetti.
 
-### Milestone 1
+### Day 1
+#### Milestone 1
 Tramite gli appositi comandi `artisan`, create un `model` con relativa `migration` e `seeder` per importare i dati all'interno del database come visto a lezione.
 
-### Milestone 2
+#### Milestone 2
 Dopo aver creato un `controller` dedicato, iniziare a definire le prime operazioni **CRUD** con le relative `view`:
 - `index`
 - `show`
 - `create`
 - `store`
+
+### Day 2
+Nell'esercizio di ieri, completare le operazioni di `CRUD` aggiungendo la possibilita' di **modificare** ed **eliminare** elementi gia' presenti nel `DB`.
+
+#### Bonus
+Tramite `js`, quando l'utente clicca sul pulsante **delete**, chiedere conferma della cancellazione tramite modale, prima di eliminare l'elemento.
 
 ## Data
 ```php
