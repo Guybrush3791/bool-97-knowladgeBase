@@ -24,6 +24,12 @@ Nell'esercizio di ieri, completare le operazioni di `CRUD` aggiungendo la possib
 #### Bonus
 Tramite `js`, quando l'utente clicca sul pulsante **delete**, chiedere conferma della cancellazione tramite modale, prima di eliminare l'elemento.
 
+### Day 3
+Aggiungere in fase di `store`/`update` alcune possibili validazioni di dati in relazione alla realta' definita.
+
+#### Bonus
+Generare dei messaggi di errore in italiano per ogni validazione definita.
+
 ## Data
 ```php
 $comics = [

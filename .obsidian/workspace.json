@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-07-17 - Laravel DC Comics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc62cde95f921a97",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
+    "Snacks/2023-07-19 - Laravel DC Comics 3.md",
+    "Snacks/2023-07-17 - Laravel DC Comics.md",
     "Snacks/2023-07-18 - Laravel DC Comics 2.md",
     "Live/2023-07-19 - Laravel Water.md",
-    "Snacks/2023-07-17 - Laravel DC Comics.md",
     "Live/2023-07-18 - Laravel DC Comics.md",
     "Tips&Tricks/Markdown/Markdown + Obsidian.md",
     "Live/2023-07-17 - Laravel CRUD - 1.md",
@@ -177,7 +178,6 @@
     "DBs/DB University/2023-06-28 - DB University.md",
     "DBs/DB Movies",
     "__assets/laravel-comics-assets/__assets/jumbotron.jpg",
-    "Snacks/2023-07-10 - Laravel Primi Passi.md",
     "__assets/laravel-comics-assets/__assets/adv.jpg",
     "__assets/laravel-comics-assets/__assets",
     "__assets/imgs/homepage.png",
