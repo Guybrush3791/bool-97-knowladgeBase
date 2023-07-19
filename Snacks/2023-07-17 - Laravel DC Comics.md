@@ -1,6 +1,9 @@
 ## Repo
 `laravel-dc-comics`
 
+## Correzione
+Vedi [[2023-07-18 - Laravel DC Comics]]
+
 ## Todo
 Creare un nuovo progetto per gestire una collezione di fumetti.
 
