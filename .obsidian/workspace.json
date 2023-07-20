@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-07-17 - Laravel DC Comics.md",
-                "mode": "preview",
+                "file": "Live/2023-07-20 - Laravel auth.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-07-17 - Laravel DC Comics.md",
+                "file": "Live/2023-07-20 - Laravel auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-07-17 - Laravel DC Comics.md",
+                "file": "Live/2023-07-20 - Laravel auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-07-17 - Laravel DC Comics.md"
+                "file": "Live/2023-07-20 - Laravel auth.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Snacks/2023-07-19 - Laravel DC Comics 3.md",
+    "Snacks/2023-07-20 - Laravel Auth.md",
+    "Live/2023-07-20 - Laravel auth.md",
     "Snacks/2023-07-17 - Laravel DC Comics.md",
+    "Snacks/2023-07-19 - Laravel DC Comics 3.md",
     "Snacks/2023-07-18 - Laravel DC Comics 2.md",
     "Live/2023-07-19 - Laravel Water.md",
     "Live/2023-07-18 - Laravel DC Comics.md",
@@ -173,9 +175,7 @@
     "Live/2023-07-12 - Laravel Model Controller Live.md",
     "Live/2023-07-11 - Laravel SASS Bootstrap PKG.md",
     "__assets/imgs/Pasted image 20230712121053.png",
-    "__assets/laravel-comics-assets/2023-07-11 - Laravel Comics Assets.md",
     "__assets/dumps/movies.sql",
-    "DBs/DB University/2023-06-28 - DB University.md",
     "DBs/DB Movies",
     "__assets/laravel-comics-assets/__assets/jumbotron.jpg",
     "__assets/laravel-comics-assets/__assets/adv.jpg",
