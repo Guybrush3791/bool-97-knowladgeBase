@@ -43,14 +43,14 @@
 
 #### Group 4: Ratione
 ##### Team leader
-**Matteo Sarrecchia**
+**Davide Pesce**
 
 ##### Componenti:
 - Gianbattista Botassi
 - Paolo Centoscudi
 - Manuel Floriani
 - Gabriele Mafrica
-- Davide Pesce
+- Matteo Sarrecchia
 - Lorenzo Troiano
 
 
