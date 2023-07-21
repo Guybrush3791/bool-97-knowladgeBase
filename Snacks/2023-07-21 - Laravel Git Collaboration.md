@@ -1,8 +1,7 @@
 ## Repo
 `laravel-git-collaboration`
 
-## Todo
-### Group & Team Leader
+## Group & Team Leader
 #### Group 1: Velit
 ##### Team leader
 **Arianna Ruggirello**
@@ -64,3 +63,17 @@
 - Alessandro Franco
 - Federica Mammone
 - Nicola Piperis
+
+
+## Todo
+Generare una CRUD completa sulla seguente entita', dividendosi i compiti tra i vari componenti:
+
+### Entita' base: 
+#### **Van**
+- id : big int : primary key
+- brand : varchar( 32 ) 
+- model : varchar( 32 )
+- releaseDate : date
+- engineCapacity : positive integer
+- weight : positive integer
+- image : varchar(255) 
