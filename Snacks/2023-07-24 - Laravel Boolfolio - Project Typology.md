@@ -2,7 +2,8 @@
 `laravel-one-to-many`
 
 > [!ATTENTION] CONTINUAZIONE DELL'ESERCIZIO [[Snacks/2023-07-20 - Laravel Auth|Laravel Auth]]
-> In nuova repo
+> Continuare a lavorare sul codice del progetto, ma in una nuova `repo`.
+> Si' consiglia di eliminare la cartella `.git` all'interno del progetto, e poi caricare tutto sulla nuova *repo*
 
 ## Todo
 Continuare a lavorare sul codice del progetto , ma in una nuova `repo` e aggiungendo una nuova entità: `Type`
