@@ -5,6 +5,9 @@
 > Continuare a lavorare sul codice del progetto, ma in una nuova `repo`.
 > Si' consiglia di eliminare la cartella `.git` all'interno del progetto, e poi caricare tutto sulla nuova *repo*
 
+## Correzione
+[Repo](https://github.com/Guybrush3791/bool-97-laravel-auth-live)
+
 ## Todo
 Continuare a lavorare sul codice del progetto , ma in una nuova `repo` e aggiungendo una nuova entità: `Type`
 Questa entità rappresenta la tipologia di progetto ed è in **relazione one to many** con i *progetti*.
