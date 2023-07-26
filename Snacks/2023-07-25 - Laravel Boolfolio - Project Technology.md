@@ -22,4 +22,4 @@ I task da svolgere sono diversi, ma alcuni di essi sono un ripasso di ciò che a
 Gestire il *salvataggio dell’associazione* `progetto-tecnologie` con opportune regole di validazione
 
 ### Bonus 2
-aggiungere le operazioni CRUD per il model Technology, in modo da gestire le tecnologie utilizzate nei progetti direttamente dal pannello di amministrazione
+aggiungere le operazioni CRUD per il model `Technology`, in modo da gestire le tecnologie utilizzate nei progetti direttamente dal pannello di amministrazione
