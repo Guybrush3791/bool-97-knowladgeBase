@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-08-21 - Laravel Boolfolio - API.md",
+                "file": "Live/2023-08-21 - Laravel Rabbit API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-08-21 - Laravel Boolfolio - API.md",
+                "file": "Live/2023-08-21 - Laravel Rabbit API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-08-21 - Laravel Boolfolio - API.md",
+                "file": "Live/2023-08-21 - Laravel Rabbit API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-08-21 - Laravel Boolfolio - API.md"
+                "file": "Live/2023-08-21 - Laravel Rabbit API.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "dc62cde95f921a97",
   "lastOpenFiles": [
-    "Snacks/2023-07-27 - Laravel Boolfolio - Cover Image.md",
-    "Snacks/2023-08-21 - Laravel Boolfolio - API.md",
     "Live/2023-07-27 - Laravel Boolfolio - Project Technology.md",
+    "Live/2023-08-21 - Laravel Rabbit API.md",
+    "Snacks/2023-08-21 - Laravel Boolfolio - API.md",
+    "Snacks/2023-07-27 - Laravel Boolfolio - Cover Image.md",
     "Live/2023-07-27 -  Laravel Relationship - Rabbit image.md",
     "Snacks/2023-07-25 - Laravel Boolfolio - Project Technology.md",
     "Live/2023-07-24 - Laravel Relationship - 1.md",
@@ -173,7 +174,6 @@
     "Live/2023-07-17 - Laravel CRUD - 1.md",
     "Live/2023-07-03 - PHP OOP 2 - live.md",
     "Live/2023-07-13 - Laravel Migration + Faker + Seeder.md",
-    "__assets/dumps/2023-07-12 - DB Movies.md",
     "__assets/imgs/Pasted image 20230712121053.png",
     "__assets/dumps/movies.sql",
     "DBs/DB Movies",
