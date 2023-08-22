@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "174b73f9dba5ebab",
+        "id": "bf6e982f68557609",
         "type": "tabs",
         "children": [
           {
-            "id": "dc62cde95f921a97",
+            "id": "aa1475220de8f95b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-08-22 - Laravel API.md",
+                "file": "Live/2023-08-22 - Vue Route.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-08-22 - Laravel API.md",
+                "file": "Live/2023-08-22 - Vue Route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-08-22 - Laravel API.md",
+                "file": "Live/2023-08-22 - Vue Route.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-08-22 - Laravel API.md"
+                "file": "Live/2023-08-22 - Vue Route.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Snacks/2023-08-21 - Laravel Boolfolio - API.md",
+    "Snacks/2023-08-22 - Laravel Boolfolio - Vue Route.md",
+    "Live/2023-08-22 - Vue Route.md",
+    "Live/2023-08-21 - Laravel Rabbit API.md",
     "Live/2023-08-22 - Laravel API.md",
+    "Snacks/2023-08-21 - Laravel Boolfolio - API.md",
     "Snacks/2023-07-27 - Laravel Boolfolio - Cover Image.md",
     "Snacks/2023-07-25 - Laravel Boolfolio - Project Technology.md",
     "Snacks/2023-07-24 - Laravel Boolfolio - Project Typology.md",
-    "Live/2023-08-21 - Laravel Rabbit API.md",
     "Live/2023-07-27 - Laravel Boolfolio - Project Technology.md",
     "Live/2023-07-27 -  Laravel Relationship - Rabbit image.md",
     "Live/2023-07-24 - Laravel Relationship - 1.md",
@@ -172,8 +174,6 @@
     "Live/2023-07-19 - Laravel Water.md",
     "Live/2023-07-18 - Laravel DC Comics.md",
     "Tips&Tricks/Markdown/Markdown + Obsidian.md",
-    "Live/2023-07-17 - Laravel CRUD - 1.md",
-    "Live/2023-07-03 - PHP OOP 2 - live.md",
     "__assets/imgs/Pasted image 20230712121053.png",
     "__assets/dumps/movies.sql",
     "DBs/DB Movies",
